@@ -20,6 +20,7 @@ Project Showcase: A section dedicated to displaying my projects, including descr
 About Me: Information about my background, skills, and career goals.
 Contact Form: A form for visitors to get in touch with me directly.
 Blog Section: (Optional) A section for sharing insights and updates related to full-stack development.
+
 # Technologies
 This portfolio is built using the following technologies:
 
@@ -38,16 +39,16 @@ To get started with the development of this portfolio, follow these steps:
 
 ## Clone the Repository:
 
-git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/yourusername/portfolio-website.git
 
 ## Navigate to the Project Directory:
-cd portfolio-website
+    cd portfolio-website
 
 ## Install Dependencies:
-npm install
+    npm install
 
 ## Run the Development Server:
-npm start
+    npm start
 
 The application will be available at http://localhost:3000.
 

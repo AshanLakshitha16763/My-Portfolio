@@ -53,6 +53,6 @@ Feel free to explore the portfolio to see examples of my work and learn more abo
 
 ## Email: ashan.lakshitha.j99@gmail.com
 
-## LinkedIn: https://www.linkedin.com/in/ashan-lakshitha-768633244/ (<br>)
+## LinkedIn: https://www.linkedin.com/in/ashan-lakshitha-768633244/
 
 ## GitHub: https://github.com/AshanLakshitha16763

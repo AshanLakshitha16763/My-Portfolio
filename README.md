@@ -23,11 +23,16 @@ Blog Section: (Optional) A section for sharing insights and updates related to f
 # Technologies
 This portfolio is built using the following technologies:
 
-    React.js: For building the user interface.
-    HTML5 & CSS3: For structuring and styling the website.
-    JavaScript: For interactive elements and functionality.
-    Node.js: (Optional) For backend services if needed.
-    Git & GitHub: For version control and hosting the codebase.
+React.js: For building the user interface.
+
+HTML5 & CSS3: For structuring and styling the website.
+    
+JavaScript: For interactive elements and functionality.
+    
+Node.js: (Optional) For backend services if needed.
+   
+Git & GitHub: For version control and hosting the codebase.
+
 # Setup
 To get started with the development of this portfolio, follow these steps:
 

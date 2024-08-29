@@ -37,20 +37,19 @@ git clone https://github.com/yourusername/portfolio-website.git
 
 ## Navigate to the Project Directory:
 cd portfolio-website
-Install Dependencies:
-bash
-Copy code
+
+## Install Dependencies:
 npm install
-Run the Development Server:
-bash
-Copy code
+
+## Run the Development Server:
 npm start
+
 The application will be available at http://localhost:3000.
 
 # Usage
 Feel free to explore the portfolio to see examples of my work and learn more about my skills. You can also reach out through the contact form if you have any inquiries or would like to connect.
 
 # Contact
-Email: your-email@example.com
-LinkedIn: LinkedIn Profile
-GitHub: GitHub Profile
+Email: ashan.lakshitha.j99@gmail.com
+LinkedIn: https://www.linkedin.com/in/ashan-lakshitha-768633244/
+GitHub: https://github.com/AshanLakshitha16763

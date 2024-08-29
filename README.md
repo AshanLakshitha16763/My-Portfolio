@@ -16,9 +16,13 @@ This portfolio website highlights my projects and achievements in full-stack dev
 
 # Features
 Responsive Design: The site is fully responsive and works seamlessly on different devices and screen sizes.
+
 Project Showcase: A section dedicated to displaying my projects, including descriptions and links to their respective repositories.
+
 About Me: Information about my background, skills, and career goals.
+
 Contact Form: A form for visitors to get in touch with me directly.
+
 Blog Section: (Optional) A section for sharing insights and updates related to full-stack development.
 
 # Technologies

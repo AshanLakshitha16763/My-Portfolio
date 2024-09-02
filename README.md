@@ -3,13 +3,13 @@ Welcome to my portfolio website! This site showcases my work and projects as a f
 
 # Table of Contents
 
-About
-Features
-Technologies
-Setup
-Usage
-Contact
-License
+## About
+## Features
+## Technologies
+## Setup
+## Usage
+## Contact
+## License
 
 # About
 This portfolio website highlights my projects and achievements in full-stack development. It demonstrates my expertise in React.js and showcases various projects that I have worked on. The site is designed to be a comprehensive introduction to my skills and experience as a software developer.
